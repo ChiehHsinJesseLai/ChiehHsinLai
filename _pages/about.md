@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Music Foundation Model Team of Sony AI, specializing in deep generative modeling and robustness. My research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
+I am a research scientist/tech leader at Music Foundation Model Team of Sony AI, specializing in deep generative modeling and robustness. My research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
 
 Previously
 ======
